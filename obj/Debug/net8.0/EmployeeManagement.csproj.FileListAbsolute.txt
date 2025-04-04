@@ -1,0 +1,15 @@
+/Users/syahinsyah/Desktop/syahin practice code/oopc/EmployeeManagement/bin/Debug/net8.0/EmployeeManagement
+/Users/syahinsyah/Desktop/syahin practice code/oopc/EmployeeManagement/bin/Debug/net8.0/EmployeeManagement.deps.json
+/Users/syahinsyah/Desktop/syahin practice code/oopc/EmployeeManagement/bin/Debug/net8.0/EmployeeManagement.runtimeconfig.json
+/Users/syahinsyah/Desktop/syahin practice code/oopc/EmployeeManagement/bin/Debug/net8.0/EmployeeManagement.dll
+/Users/syahinsyah/Desktop/syahin practice code/oopc/EmployeeManagement/bin/Debug/net8.0/EmployeeManagement.pdb
+/Users/syahinsyah/Desktop/syahin practice code/oopc/EmployeeManagement/obj/Debug/net8.0/EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/syahinsyah/Desktop/syahin practice code/oopc/EmployeeManagement/obj/Debug/net8.0/EmployeeManagement.AssemblyInfoInputs.cache
+/Users/syahinsyah/Desktop/syahin practice code/oopc/EmployeeManagement/obj/Debug/net8.0/EmployeeManagement.AssemblyInfo.cs
+/Users/syahinsyah/Desktop/syahin practice code/oopc/EmployeeManagement/obj/Debug/net8.0/EmployeeManagement.csproj.CoreCompileInputs.cache
+/Users/syahinsyah/Desktop/syahin practice code/oopc/EmployeeManagement/obj/Debug/net8.0/EmployeeManagement.sourcelink.json
+/Users/syahinsyah/Desktop/syahin practice code/oopc/EmployeeManagement/obj/Debug/net8.0/EmployeeManagement.dll
+/Users/syahinsyah/Desktop/syahin practice code/oopc/EmployeeManagement/obj/Debug/net8.0/refint/EmployeeManagement.dll
+/Users/syahinsyah/Desktop/syahin practice code/oopc/EmployeeManagement/obj/Debug/net8.0/EmployeeManagement.pdb
+/Users/syahinsyah/Desktop/syahin practice code/oopc/EmployeeManagement/obj/Debug/net8.0/EmployeeManagement.genruntimeconfig.cache
+/Users/syahinsyah/Desktop/syahin practice code/oopc/EmployeeManagement/obj/Debug/net8.0/ref/EmployeeManagement.dll
